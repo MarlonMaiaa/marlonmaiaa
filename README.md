@@ -9,11 +9,15 @@ Minha paixão é transformar desafios complexos em soluções elegantes e eficie
 Atualmente, estou em um processo de especialização técnica no desenvolvimento backend, com foco em Java e Spring Boot para construção de APIs RESTful robustas e escaláveis.
 
 <div> 
+  <a href="mailto:marlonnmaiaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-  <a href = "marlonnmaiaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marlon-maia-676b85145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/marlon-maia-676b85145/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
+
 
 ---
 
