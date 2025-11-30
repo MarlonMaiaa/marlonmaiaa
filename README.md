@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Software`**
 
-Desenvolvedor de Software em Evolução Constante
+Sou um desenvolvedor de Software em Evolução Constante
 
 Minha paixão é transformar desafios complexos em soluções elegantes e eficientes. Atuo no desenvolvimento de software movido pela curiosidade intelectual e pela satisfação em resolver problemas reais através da tecnologia.
 
