@@ -1,4 +1,5 @@
-# 🛸Hello, universe 🌍✨ Bem-vindo ao Meu Perfil!
+# 🛸 Hello, Universe! 🌍✨  
+Bem-vindo(a)! Aqui você encontra meus projetos, estudos e experiências com tecnologia 🚀
 
 **`Desenvolvedor Software`**
 
